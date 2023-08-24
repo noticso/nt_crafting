@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <script src="./js/index.js"></script>
+    <link rel="stylesheet" href="./css/style.css">
+    <script>
+        function craft(obj){
+            let quantity = $(`#${obj}-input`).val()
+            $.post(`https://${GetParentResourceName()}/craft`, JSON.stringify({obj:obj, quantity: quantity}))
+            $(`.input`).val("")
+        }
+    </script>
+</head>
+<body>
+    <div class="grid">
+        <img src="./img/snake.gif" class="img"></img>
+        <h1>Crafting Menu</h1>
+        <h2 class="level">Current Level:</h2>
+        <h2 class="points">Current Points:</h2>
+        <div class="container" id="container">
+        </div>
+    </div>
+</body>
+</html>

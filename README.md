@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Progetto
 
-![crafting](https://github.com/noticso/nt_crafting/assets/76558194/5b2ed9c5-2e6e-435e-a376-aa90ddd79ea0)
+![crafting](https://github.com/noticso/nt_crafting/assets/76558194/23bf1562-1adb-4958-8930-52772b15a39b)
 
 
 

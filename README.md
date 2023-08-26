@@ -81,6 +81,7 @@ Per iniziare dovrai:
 
 ### Pre-requisiti
 1. Avere una base FiveM con le ox resources [(ox_inventory, ox_lib, ox_mysql)](https://overextended.dev/)
+2. Installare il [(gridsystem)](https://github.com/Profex1999/gridsystem)
 
 ### Installazione
 

@@ -203,7 +203,5 @@ Config.Items = {
     
     
 }
-Config.Location = vector3(670.14, 1280.48, 359.31) -- BLIP Location
-Config.TextLoc = vector3(670.14, 1280.48, 360.29)  -- TEXT Location
 Config.MaxDistance = 4
 Config.ClickDistance = 2

@@ -93,7 +93,7 @@ Per iniziare dovrai:
 2. Inserisci la tua location in `client.lua`
    ```lua
    local location = vector3(x,y,z)
-  ```
+   ```
 3. Configura il tuo marker in `client.lua`
    ```lua
     TriggerEvent('gridsystem:registerMarker', {

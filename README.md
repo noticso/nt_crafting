@@ -96,7 +96,7 @@ Per iniziare dovrai:
   ```
 3. Configura il tuo marker in `client.lua`
    ```lua
-   TriggerEvent('gridsystem:registerMarker', {
+    TriggerEvent('gridsystem:registerMarker', {
 		name = "MarkerName",
 		pos = location,
 		size = vector3(1.2, 1.2, 1.2),

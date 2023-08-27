@@ -128,7 +128,7 @@ Per iniziare dovrai:
 	})
   ```
 4. Configura il tuo menu in `config.lua`
-  ```lua
+    ```lua
     ['ITEM_HASH'] = {
         name= 'Item Name',
         img = './img/item_hash.png',
@@ -139,7 +139,7 @@ Per iniziare dovrai:
         points = POINTS_GAINED,
         levelRequired = NUMBER
     },
-  ```
+    ```
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 

@@ -140,6 +140,7 @@ Per iniziare dovrai:
     levelRequired = NUMBER
     },
    ```
+5. Apri il file `crafting.sql` in HeidiSQL e metti la tabella nel tuo database
 
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 

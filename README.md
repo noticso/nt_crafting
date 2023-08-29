@@ -18,7 +18,7 @@
     <a href="https://github.com/noticso/nt_crafting"><strong>Esplora le docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/noticso/nt_crafting">Guarda la demo</a>
+    <a href="https://streamable.com/jop0ry">Guarda la demo</a>
     ·
     <a href="https://github.com/noticso/nt_crafting/issues">Segnala Bug</a>
     ·
